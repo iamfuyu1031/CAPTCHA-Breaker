@@ -3,7 +3,7 @@
 ## Intorduction
 CAPTCHA is short for 'Completely Automated Public Turing test to tell Computers and Humans Apart', which is widely used to determine whether or not the user is human. 
 
-The is the code to break man-shape letter CAPTCHA. The idea is taken from http://www.boyter.org/decoding-captchas/.
+This is the code to break man-shape letter CAPTCHA. The idea is taken from http://www.boyter.org/decoding-captchas/.
 
 The folder `example-captcha` shows the examples of the CAPTCHA iamges that we are trying to break. The folder `iconset` provides the training set of the CAPTCHA characters. The file `captcha-breaker.py` is the Python code to break the CAPTCHA. The file `out.png` is the CAPTCHA image that we want to break.
 
